@@ -311,10 +311,6 @@ El sistema implementa cache estratégico en múltiples niveles:
 - **API GraphQL**: Endpoint GraphQL complementario
 - **Aplicación Móvil**: Cliente nativo iOS/Android
 
-## Reconocimientos
 
-- Django REST Framework por el excelente framework
-- Comunidad médica por feedback y validación
-- Contribuidores del proyecto por mejoras continuas
 
 ---
